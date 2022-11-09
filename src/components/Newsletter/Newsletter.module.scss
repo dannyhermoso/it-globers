@@ -1,0 +1,66 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+}
+
+.newletter {
+    margin: 0px auto;
+    margin-top: 80px;
+    color: gray;
+    font-size: 14px;
+    letter-spacing: 2px;
+    font-weight: 200;
+}
+
+.suscribete {
+    margin: 0px auto;
+    font-size: 40px;
+    font-weight: 200;
+}
+
+.novedades {
+    margin: 0px auto;
+    font-size: 14.5px;
+}
+
+.input {
+    width: 43%;
+    margin: 0px auto;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.inputError{
+    color: red;
+    font-weight: bold; 
+}
+
+.button {
+    position: absolute;
+    background: transparent;
+    border: none;
+    font-size: 24px;
+    cursor: pointer;
+    margin-top: 5px;
+}
+
+.button:hover {
+    transform: scale(1.5);
+}
+
+.formularios {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    margin-left: 1.5%;
+
+}
+
+.contenedor {
+    width: 100%;
+}

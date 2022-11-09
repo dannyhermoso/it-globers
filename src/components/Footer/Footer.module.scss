@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Titan+One&display=swap');
+
+
+.cuerpo {
+    margin-top: 100px;
+    border-top: 1px solid #ccc;
+    box-shadow: -7px -4px rgba(204, 204, 204, 0.2);
+}
+
+
+.containerRowTop {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+    h1 {
+        line-height: 11px;
+        font-family: 'Titan One', cursive;
+
+    }
+
+    h3 {
+        font-size: 15px;
+        line-height: 11px;
+        letter-spacing: 1px;
+    }
+}
+
+.coontainerColumn {
+    display: flex;
+    flex-direction: column;
+}
+
+.flexRow {
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.flexRowSocial {
+    display: flex;
+    flex-direction: row;
+    h3 {
+        margin-right: 7px;
+    }
+    .iconos {
+        font-size: 20px;
+        margin-top: 10px;
+        margin-right: 9px;
+    }
+}
+
+.icono {
+    font-size: 39px;
+    margin-right: 6px;
+}
+
+
+
+.flexColumn {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+
+    h5 {
+        margin: 0px;
+        padding-left: 0px;
+        line-height: 13px;
+    }
+
+    
+}
+
+.letras {
+    letter-spacing: 4px;
+}
+
+
+
+.containerRow {
+    display: flex;
+    flex-direction: row;
+    height: 40px;
+    border-top: 1px solid #ccc;
+    padding-top: 25px;
+    .primer {
+        margin-left: 4%;
+        font-size: 12px;
+        color: rgb(172, 172, 172);
+    }
+
+    .segundo {
+        margin-left: 60%;
+        s.lastIcon {
+            background-color: red;
+            font-size: 40px;
+        }
+    }
+
+    
+}

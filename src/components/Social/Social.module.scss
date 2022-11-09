@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+}
+
+.fotos {
+    width: 42%;
+    margin: 0px auto;
+    margin-top: 100px;
+}
+
+.instagram {
+    margin: 0px auto;
+    margin-top: 80px;
+    color: gray;
+    font-size: 14px;
+    letter-spacing: 2px;
+    font-weight: 200;
+}
+
+.espufi {
+    margin: 0px auto;
+    font-size: 40px;
+    font-weight: 200;
+}

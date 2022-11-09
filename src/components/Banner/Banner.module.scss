@@ -1,0 +1,28 @@
+.container {
+    background-image: url('../../assets/beach-girl.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items:center ;
+    justify-content: center;
+}
+
+.frase {
+    margin-top: 100px;
+    color: white;
+    font-size: 50px;
+    max-width: 500px;
+    
+}
+
+.shop {
+    border: 2px solid white;
+    width: 100px;
+    padding: 15px;
+    color: white;
+    margin-top: 20px;
+    letter-spacing: 2px;
+}
